@@ -1,0 +1,12 @@
+C:\Users\evelin.jogi\Desktop\C#\Praktikum3\Praktikum3Solution\Praktikum3\bin\Debug\Praktikum3.exe.config
+C:\Users\evelin.jogi\Desktop\C#\Praktikum3\Praktikum3Solution\Praktikum3\bin\Debug\Praktikum3.exe
+C:\Users\evelin.jogi\Desktop\C#\Praktikum3\Praktikum3Solution\Praktikum3\bin\Debug\Praktikum3.pdb
+C:\Users\evelin.jogi\Desktop\C#\Praktikum3\Praktikum3Solution\Praktikum3\obj\Debug\Praktikum3.csprojResolveAssemblyReference.cache
+C:\Users\evelin.jogi\Desktop\C#\Praktikum3\Praktikum3Solution\Praktikum3\obj\Debug\Praktikum3.exe
+C:\Users\evelin.jogi\Desktop\C#\Praktikum3\Praktikum3Solution\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\evelin.jogi\Desktop\CPraktikumid\Praktikum3\Praktikum3Solution\Praktikum3\bin\Debug\Praktikum3.exe.config
+C:\Users\evelin.jogi\Desktop\CPraktikumid\Praktikum3\Praktikum3Solution\Praktikum3\obj\Debug\Praktikum3.exe
+C:\Users\evelin.jogi\Desktop\CPraktikumid\Praktikum3\Praktikum3Solution\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\evelin.jogi\Desktop\CPraktikumid\Praktikum3\Praktikum3Solution\Praktikum3\bin\Debug\Praktikum3.exe
+C:\Users\evelin.jogi\Desktop\CPraktikumid\Praktikum3\Praktikum3Solution\Praktikum3\bin\Debug\Praktikum3.pdb
+C:\Users\evelin.jogi\Desktop\CPraktikumid\Praktikum3\Praktikum3Solution\Praktikum3\obj\Debug\Praktikum3.csprojResolveAssemblyReference.cache

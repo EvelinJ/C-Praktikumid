@@ -1,0 +1,6 @@
+C:\Users\evelin.jogi\Desktop\C#\Praktikum4\Praktikum4Solution\Praktikum4\bin\Debug\Praktikum4.exe.config
+C:\Users\evelin.jogi\Desktop\C#\Praktikum4\Praktikum4Solution\Praktikum4\bin\Debug\Praktikum4.exe
+C:\Users\evelin.jogi\Desktop\C#\Praktikum4\Praktikum4Solution\Praktikum4\bin\Debug\Praktikum4.pdb
+C:\Users\evelin.jogi\Desktop\C#\Praktikum4\Praktikum4Solution\Praktikum4\obj\Debug\Praktikum4.csprojResolveAssemblyReference.cache
+C:\Users\evelin.jogi\Desktop\C#\Praktikum4\Praktikum4Solution\Praktikum4\obj\Debug\Praktikum4.exe
+C:\Users\evelin.jogi\Desktop\C#\Praktikum4\Praktikum4Solution\Praktikum4\obj\Debug\Praktikum4.pdb
